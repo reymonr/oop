@@ -20,8 +20,8 @@ int main()
   int x = 10;
   char gender = 'M';
   string name = "Reymon";
-  float hours = 4.17;
-  double gpa = 3.78;
+  float hours = 4.174574857;
+  double gpa = 3.78783438927589245789475893475897;
   bool isActive = false;
 
   cout << name << endl;
