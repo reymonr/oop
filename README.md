@@ -20,10 +20,11 @@ git push -u origin main
 1. Hello World (```hello.cpp```)
 2. Get User Input (```input.cpp```)
 3. Variable and Data Types (```dataTypes.cpp```)
-4. Control Flow (```controlFlow.cpp```)
-5. Functions (```functions.cpp```)
+4. Operator (```operator.cpp```)
+5. Control Flow (```controlFlow.cpp```)
+6. Functions (```functions.cpp```)
 
 ## Object Oriented Programming
-6. Class and Object
-7. Inheritance
-8. Polymorphism
+7. Class and Object
+8. Inheritance
+9. Polymorphism
