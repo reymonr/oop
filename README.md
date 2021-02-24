@@ -22,9 +22,10 @@ git push -u origin main
 3. Variable and Data Types (```dataTypes.cpp```)
 4. Operator (```operator.cpp```)
 5. Control Flow (```controlFlow.cpp```)
-6. Functions (```functions.cpp```)
+6. Array (```array.cpp```)
+7. Functions (```function.cpp```, ```function2.cpp```)
 
 ## Object Oriented Programming
-7. Class and Object
-8. Inheritance
-9. Polymorphism
+8. Class and Object
+9. Inheritance
+10. Polymorphism
