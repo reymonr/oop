@@ -18,6 +18,7 @@ class Contoh {
 
 int square(Contoh C, int n) {
   C.setX(n);
+  
   return (C.getX() * C.getX());
 }
 
@@ -31,7 +32,7 @@ Contoh myFunction() {
 int main()
 {
   Contoh c2;
-  cout << "Square value of: " << square(c2, 7) << endl << endl;
+  cout << "Square value of: " << square(c2, 10) << endl << endl;
 
   Contoh c3;
   c3 = myFunction(); // M.setX(25)
